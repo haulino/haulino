@@ -1,16 +1,21 @@
-## Hi there 👋
+# whoami
+I'm the kind of engineer who reads the RFC before writing the config. I invest in understanding how things work, then ship small, tested increments to validate what I learned. That foundation lets me iterate fast without breaking what matters.
 
-<!--
-**haulino/haulino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm working on
 
-Here are some ideas to get you started:
+- Scaling AI infrastructure: capacity planning, service scaling, WAF security, and LLM prompt guardrails
+- Improving CI/CD pipelines for LLM deployments: linting, integration testing, faster and safer infra rollouts
+- Building agentic workflows for faster iteration: code review loops, cross-system investigations, automated test fixing. Faster feedback, faster learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+What I use on a daily basis
+- **Understanding systems**: Azure CLI, AWS CLI, Well-Architected Framework, AI-assisted exploration
+- **Fast infra deployment**: Terraform, CloudFormation, GitLab CI/CD, feature branches, integration testing, unit testing (Playwright, Vitest, Jest, Pytest)
+- **Cloud platform deployments**
+  - AWS services: CloudFront, ALB, ECS Fargate, EC2, VPC, Route53, S3, Lambda
+  - Azure services: Traffic Manager, Application Gateway, API Management, Keyvault
+- **Production-ready AI infrastructure**
+  - Azure OpenAI, AWS Bedrock, Atlas Vector Search
+  - API Management (load balancing, retry/fallback), WAF, private endpoints, Managed Identity
+  - Datadog, Azure Monitor, custom LLM usage metrics
+- **Agentic workflows**: Claude Code, Claude API
