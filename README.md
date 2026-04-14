@@ -9,7 +9,7 @@ I'm the kind of engineer who reads the RFC before writing the config. I invest i
 
 ## Tech stack
 What I use on a daily basis
-- **Infra deployment**: Terraform, CloudFormation, GitLab CI/CD, feature branches, integration testing, unit testing (Playwright, Vitest, Jest, Pytest)
+- **Infra deployment**: Terraform, CloudFormation, GitLab CI/CD, github workflows, feature branch deployments, integration testing, unit testing (Playwright, Vitest, Jest, Pytest)
 - **Cloud platform deployments**
   - AWS services: CloudFront, ALB, ECS Fargate, EC2, VPC, Route53, S3, Lambda
   - Azure services: Traffic Manager, Application Gateway, API Management, Keyvault
